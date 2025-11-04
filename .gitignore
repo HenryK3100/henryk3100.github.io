@@ -2,7 +2,6 @@
 **/*.quarto_ipynb
 
 # Quarto-generated folders
-_site/
 .quarto/
 
 # MacOS system files
