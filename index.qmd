@@ -1,3 +1,9 @@
 # Welcome
 
-Hello! This is my simple personal website.
+Hello! This is my simple personal website.  
+
+<p style="float: left; margin-right: 1em; width: 200px;">
+  <img src="images/henryphoto.jpg" alt="Henry's Headshot" style="width:100%;">
+</p>
+
+My name is Henry Kombol and I am an Applied Economics Master's Student at the University of Minnesota. I started my academic journey at Loyola Marymount University in Los Angeles, California, obtaining a B.S. in Economics in 2022. Upon graduation, I became the inagural Pre-Doctoral Fellow at the Center for the Study of Los Angeles. StudyLA advocates for a better more equitable Los Angeles through research, student mentorship, and engagement with residents and leaders. After two years at StudyLA, I moved to Minneapolis Minnesota and worked at the Animal Humane Society as a Advancement Data Analyst before I started at the University of Minnesota in Fall 2025. My research interests revolve around Developmental and Environmental Economics. I have experience in R, Stata, Python, SAS, and Excel.
