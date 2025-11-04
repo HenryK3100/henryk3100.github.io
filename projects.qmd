@@ -1,0 +1,13 @@
+# Projects
+
+## Research at StudyLA 
+
+[Police and Community Relations Survey (2023)](https://lmu.app.box.com/s/d43wykp40sp0wxwbyr4fz34pbonw5djk) - A multi-year study aimed at capturing the on issues of policing in Los Angeles
+
+[Sharing P.O.W.E.R. (2022)](https://lmu.app.box.com/s/szehy1739i436ceu6u00vmyqyckxv20o) - A report that was commissioned by the Office of Mayor Eric Garcetti to provide a data-based analysis of representation (by sex and race/ethnicity) in mayoral appointees in the City of Los Angeles.
+
+## Undergraduate Projects
+
+[Research on Covid-19: An Economic Analysis (2021)](https://docs.google.com/document/d/e/2PACX-1vTQrZxAhA9q9yPVBFwT_P7ACb_ErX8B-v63qBw35v1EcfNmkSglREB8PQRDLp1EuttHAJ6flnU6zmYM/pub) - A final paper for my Math for Economics Course. In this paper, I investigated the Covid-19 vaccination rates in developing countries compared to more developed countries.
+
+[How the Three Point Line Revolutionized Basketball](https://docs.google.com/document/d/e/2PACX-1vS_obQZsh9qzZ9la9xHFi17hW-KFAtkCuiFlUV5CJxI_iG4AbPqXQuNowu9UovCqngG--GzRsiuQcmO/pub) - A research paper investigating how the three point line's introduction revolutionized the game of basketball using historical NBA datasets.
