@@ -135,6 +135,7 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Work Email:</strong> kombo004@umn.edu<br>
 </li>
 <li><strong>Personal Email:</strong> henryk3100@gmail.com</li>
+<li><strong>LinkedIn:</strong> https://www.linkedin.com/in/henry-kombol/</li>
 </ul>
 
 
@@ -214,7 +215,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/HenryK3100\.github\.io\/henryk3100\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
