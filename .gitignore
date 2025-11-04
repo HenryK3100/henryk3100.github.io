@@ -1,0 +1,12 @@
+/.quarto/
+**/*.quarto_ipynb
+
+# Quarto-generated folders
+_site/
+.quarto/
+
+# MacOS system files
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
